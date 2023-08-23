@@ -3,8 +3,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natanrocha.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanrocha/)
 
-![Natan GitHub stats](https://github-readme-stats.vercel.app/api?username=natan0r&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan0r&layout=compact&theme=buefy)](https://github.com/natan0r/github-readme-stats)
+![Natan GitHub stats](https://github-readme-stats.vercel.app/api?username=natan0r&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan0r&layout=compact&theme=tokyonight)](https://github.com/natan0r/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
